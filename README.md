@@ -2,7 +2,7 @@
   <img src="./kryptokat.png" alt="kryptokat" width="400">
 </p>
 
-# Hey, I'm kryptokat 👋
+# Hey, I'm kryptokat 🐈‍⬛
 
 I build purple team tools for AI security.
 
