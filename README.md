@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  🎯 AI pentesting in training<br>
+  🎯 AI & LLM Security Researcher<br>
   🔍 AI & LLM bug bounty<br>
   🧠 Co-founder, <a href="https://ndhack.org">Neurodiverse Hackers</a><br>
   🏴‍☠️ DEF CON
@@ -19,5 +19,5 @@
 <hr>
 
 <p align="center">
-  Always looking for new opportunities.
+  Secure AI.
 </p>
